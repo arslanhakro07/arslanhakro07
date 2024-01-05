@@ -1,16 +1,33 @@
-### Hi there 👋
+ <h1 align="center">Hi 👋, I'm Arslan Nawaz</h1>
 
-<!--
-**arslanhakro07/arslanhakro07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning Backend
+- 💬 Ask me anything about Flutter 
+- 📫 How to reach me: arslannawazh@gmail.com
+  
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/arslanhakro07">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+   <a href="https://www.instagram.com/arslanhakro07">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+   <a href="https://fb.com/arslanhakro07">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+   <a href="https://twitter.com/arslanhakro07">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![arslanhakro07's GitHub stats](https://github-readme-stats.vercel.app/api?username=arslanhakro07&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arslanhakro07&theme=dark)
+
+
+<br>
+⭐️ From [arslanhakro07](https://github.com/arslanhakro07)
