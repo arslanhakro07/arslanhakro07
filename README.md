@@ -24,9 +24,9 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
-![arslanhakro07's GitHub stats](https://github-readme-stats.vercel.app/api?username=arslanhakro07&show_icons=true&theme=dark)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mujeeb-ahmed&show_icons=true&locale=en&layout=compact" alt="mujeeb-ahmed" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arslanhakro07&show_icons=true&locale=en&layout=compact" alt="arslanhakro07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arslanhakro07&show_icons=true&locale=en" alt="arslanhakro07" /></p>
 
