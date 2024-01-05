@@ -27,7 +27,11 @@
 ![arslanhakro07's GitHub stats](https://github-readme-stats.vercel.app/api?username=arslanhakro07&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arslanhakro07&theme=dark)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mujeeb-ahmed&show_icons=true&locale=en&layout=compact" alt="mujeeb-ahmed" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arslanhakro07&show_icons=true&locale=en" alt="arslanhakro07" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanhakro07&" alt="arslanhakro07" /></p>
 
 <br>
 ⭐️ From [arslanhakro07](https://github.com/arslanhakro07)
