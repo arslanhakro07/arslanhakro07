@@ -26,11 +26,16 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arslanhakro07&show_icons=true&locale=en&layout=compact" alt="arslanhakro07" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arslanhakro07&show_icons=true&locale=en" alt="arslanhakro07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanhakro07&" alt="arslanhakro07" /></p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arslanhakro07&theme=radical&column=7&no-frame=true&&margin-w=15" alt="arslanhakro07's trophies" /></a>
+ 
+</p>
+
 
 <br>
 ⭐️ From [arslanhakro07](https://github.com/arslanhakro07)
