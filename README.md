@@ -1,8 +1,8 @@
  <h1 align="center">Hi 👋, I'm Arslan Nawaz</h1>
 
-- 🔭 I’m currently working on Flutter
+- 🔭 I’m a front end web developer
 - 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
+- 💬 Ask me anything about web development 
 - 📫 How to reach me: arslannawazh@gmail.com
   
 ### Connect with me:
